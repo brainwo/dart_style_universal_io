@@ -3,8 +3,8 @@
 // BSD-style license that can be found in the LICENSE file.
 import 'dart:async';
 import 'dart:convert';
-import 'dart:io';
 
+import 'package:universal_io/io.dart';
 import 'package:path/path.dart' as p;
 
 import 'cli/formatter_options.dart';
